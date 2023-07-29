@@ -14,6 +14,3 @@ git checkout master
 git checkout -b firstBranch
 git checkout firstBranch
 git remote -v 
-git pull 
-git push
-git fetch
