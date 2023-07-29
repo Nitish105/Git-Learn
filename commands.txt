@@ -1,2 +1,16 @@
 git init
 git status
+git add
+git rm --cached
+git log
+git restore
+git config --global user.name "user_name"
+git config --global user.email "user_email"
+git log --oneline
+git log --oneline --pretty
+ls
+cat filename
+git checkout master
+git checkout -b firstBranch
+git checkout firstBranch
+git remote -v 
